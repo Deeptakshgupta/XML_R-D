@@ -1,0 +1,315 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Statement>
+  <Presentation>
+    <Pages>
+      <Page>
+        <PageId>1</PageId>
+        <PageName />
+        <DefaultHeaderFooter>1</DefaultHeaderFooter>
+        <PageObjectId>10001</PageObjectId>
+        <DFL />
+        <Barcodes />
+        <Annotations>
+          <ImageAnnotations />
+          <RectAnnotations />
+          <TriangleAnnotations />
+          <LineAnnotations />
+          <CircleAnnotations />
+          <CaptionAnnotations />
+        </Annotations>
+        <Containers />
+        <Layers>
+          <Layer>
+            <LayerName>Default Layer</LayerName>
+            <LayerId>1</LayerId>
+            <LayerObjectId>1001</LayerObjectId>
+            <DFL />
+            <Barcodes />
+            <Annotations>
+              <ImageAnnotations />
+              <RectAnnotations />
+              <TriangleAnnotations />
+              <LineAnnotations />
+              <CircleAnnotations />
+              <CaptionAnnotations />
+            </Annotations>
+            <Containers />
+            <Properties>
+              <PageBorder>
+                <Applied>0</Applied>
+                <LeftMargin>0</LeftMargin>
+                <TopMargin>0</TopMargin>
+                <RightMargin>0</RightMargin>
+                <BottomMargin>0</BottomMargin>
+                <LeftLine>
+                  <LineColor>0</LineColor>
+                  <LineWidth>1</LineWidth>
+                  <Visible>0</Visible>
+                </LeftLine>
+                <RightLine>
+                  <LineColor>0</LineColor>
+                  <LineWidth>1</LineWidth>
+                  <Visible>0</Visible>
+                </RightLine>
+                <TopLine>
+                  <LineColor>0</LineColor>
+                  <LineWidth>1</LineWidth>
+                  <Visible>0</Visible>
+                </TopLine>
+                <BottomLine>
+                  <LineColor>0</LineColor>
+                  <LineWidth>1</LineWidth>
+                  <Visible>0</Visible>
+                </BottomLine>
+              </PageBorder>
+              <BackColor>16777215</BackColor>
+              <PageObjectId>10001</PageObjectId>
+              <RelativeToComponent>
+                <RelativeComponentID>-1</RelativeComponentID>
+                <RelativePageID>-1</RelativePageID>
+                <Margin>0</Margin>
+              </RelativeToComponent>
+              <ComponentSpillover>
+                <IsSpillover>1</IsSpillover>
+                <StartFromComponentPosition>0</StartFromComponentPosition>
+                <StartInstanceFromNewPage>0</StartInstanceFromNewPage>
+              </ComponentSpillover>
+              <Dimensions>
+                <Left>30</Left>
+                <Top>30</Top>
+                <Height>1123</Height>
+                <Width>794</Width>
+                <PageType>
+                </PageType>
+              </Dimensions>
+              <DisplayComponent>1</DisplayComponent>
+            </Properties>
+            <Misc>
+              <Date>
+                <Format />
+                <Left />
+                <Top />
+              </Date>
+              <Hyperlinks />
+            </Misc>
+            <Order>1</Order>
+            <Rules />
+            <Aggregates />
+            <IsMasterComponent>1</IsMasterComponent>
+            <ComponentID />
+            <ComponentVersion>0.0.0.0</ComponentVersion>
+            <ComponentName>
+            </ComponentName>
+            <DUMMYID>-1</DUMMYID>
+          </Layer>
+        </Layers>
+        <Properties>
+          <PageBorder>
+            <Applied>0</Applied>
+            <LeftMargin>0</LeftMargin>
+            <TopMargin>0</TopMargin>
+            <RightMargin>0</RightMargin>
+            <BottomMargin>0</BottomMargin>
+            <LeftLine>
+              <LineColor>0</LineColor>
+              <LineWidth>1</LineWidth>
+              <Visible>0</Visible>
+            </LeftLine>
+            <RightLine>
+              <LineColor>0</LineColor>
+              <LineWidth>1</LineWidth>
+              <Visible>0</Visible>
+            </RightLine>
+            <TopLine>
+              <LineColor>0</LineColor>
+              <LineWidth>1</LineWidth>
+              <Visible>0</Visible>
+            </TopLine>
+            <BottomLine>
+              <LineColor>0</LineColor>
+              <LineWidth>1</LineWidth>
+              <Visible>0</Visible>
+            </BottomLine>
+          </PageBorder>
+          <BackColor>16777215</BackColor>
+          <PageObjectId>10001</PageObjectId>
+        </Properties>
+        <Misc>
+          <Date>
+            <Format />
+            <Left />
+            <Top />
+          </Date>
+          <Hyperlinks />
+        </Misc>
+        <Rules />
+        <Aggregates />
+        <PageHeader>
+          <Height>20</Height>
+          <BackColor>16777215</BackColor>
+          <Annotations>
+            <ImageAnnotations />
+            <RectAnnotations />
+            <TriangleAnnotations />
+            <LineAnnotations />
+            <CircleAnnotations />
+            <CaptionAnnotations />
+          </Annotations>
+          <Misc>
+            <Date>
+              <Format />
+              <Left />
+              <Top />
+            </Date>
+          </Misc>
+          <DFL />
+        </PageHeader>
+        <PageFooter>
+          <Height>20</Height>
+          <BackColor>16777215</BackColor>
+          <Annotations>
+            <ImageAnnotations />
+            <RectAnnotations />
+            <TriangleAnnotations />
+            <LineAnnotations />
+            <CircleAnnotations />
+            <CaptionAnnotations />
+          </Annotations>
+          <Misc>
+            <Date>
+              <Format />
+              <Left />
+              <Top />
+            </Date>
+          </Misc>
+          <DFL />
+        </PageFooter>
+        <Template>
+          <TemplateId />
+          <CategoryId />
+          <Version />
+        </Template>
+      </Page>
+    </Pages>
+    <ReportName />
+    <DisplayLayout>
+      <DisplayReportName>2</DisplayReportName>
+      <DisplayPageName>2</DisplayPageName>
+      <IsGlobalTemplate>0</IsGlobalTemplate>
+    </DisplayLayout>
+    <Type>TEMPLATE</Type>
+    <SupressHeaderFooterOnFirstPage>0</SupressHeaderFooterOnFirstPage>
+    <PageHeader>
+      <Height>20</Height>
+      <BackColor>16777215</BackColor>
+      <Annotations>
+        <ImageAnnotations />
+        <RectAnnotations />
+        <TriangleAnnotations />
+        <LineAnnotations />
+        <CircleAnnotations />
+        <CaptionAnnotations />
+      </Annotations>
+      <Misc>
+        <Date>
+          <Format />
+          <Left />
+          <Top />
+        </Date>
+      </Misc>
+      <DFL />
+    </PageHeader>
+    <PageFooter>
+      <Height>20</Height>
+      <BackColor>16777215</BackColor>
+      <Annotations>
+        <ImageAnnotations />
+        <RectAnnotations />
+        <TriangleAnnotations />
+        <LineAnnotations />
+        <CircleAnnotations />
+        <CaptionAnnotations />
+      </Annotations>
+      <Misc>
+        <Date>
+          <Format />
+          <Left />
+          <Top />
+        </Date>
+      </Misc>
+      <DFL />
+    </PageFooter>
+    <PaperSize>
+      <Height>794</Height>
+      <Width>1123</Width>
+      <Type>5</Type>
+    </PaperSize>
+    <PageNumbering />
+    <MAXID>1</MAXID>
+    <Master>
+      <Key>
+      </Key>
+      <Connection>CATALOG</Connection>
+      <Query>
+      </Query>
+      <MasterKeyId>-1</MasterKeyId>
+      <WithoutMasterKey>1</WithoutMasterKey>
+      <DSNName>
+      </DSNName>
+      <DBName>
+      </DBName>
+      <DSNType>
+      </DSNType>
+      <TableName>
+      </TableName>
+      <ColumnName>
+      </ColumnName>
+      <ColumnType>
+      </ColumnType>
+      <SqlId>
+      </SqlId>
+      <SqlIdentifier>
+      </SqlIdentifier>
+    </Master>
+    <Cycle>
+      <FieldName>
+      </FieldName>
+      <TableName>
+      </TableName>
+    </Cycle>
+    <ConditionalAnnexures />
+  </Presentation>
+  <DFL>
+    <Master>
+      <Key>
+      </Key>
+      <Connection>CATALOG</Connection>
+      <Query>
+      </Query>
+      <MasterKeyId>-1</MasterKeyId>
+      <WithoutMasterKey>1</WithoutMasterKey>
+      <DSNName>
+      </DSNName>
+      <DBName>
+      </DBName>
+      <DSNType>
+      </DSNType>
+      <TableName>
+      </TableName>
+      <ColumnName>
+      </ColumnName>
+      <ColumnType>
+      </ColumnType>
+      <SqlId>
+      </SqlId>
+      <SqlIdentifier>
+      </SqlIdentifier>
+    </Master>
+    <Sqls />
+    <Aggregates />
+  </DFL>
+  <Rules />
+  <Barcodes />
+  <MasterKeys />
+  <Processes />
+</Statement>
